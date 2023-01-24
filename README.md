@@ -2,7 +2,7 @@
 Anotações sobre as aulas do Bootcamp 
 
 ## Módulos:
-~### Princípios de Desenvolvimento de Software~  
+~ ### Princípios de Desenvolvimento de Software~  
 ~Introdução ao Pensamento Computacional~  
 ~Introdução ao Git e ao GitHub~  
 ~Como entregar seu desafio de projeto~  
