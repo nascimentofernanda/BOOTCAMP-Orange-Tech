@@ -3,10 +3,10 @@ Anotações sobre as aulas do Bootcamp
 
 ## Módulos:
 ~### Princípios de Desenvolvimento de Software~  
-~ * Introdução ao Pensamento Computacional~  
-~ * Introdução ao Git e ao GitHub~  
-~ * Como entregar seu desafio de projeto~  
-~ * Criando seu primeiro repositório no GitHub para compartilhar seu progresso~ 
+~Introdução ao Pensamento Computacional~  
+~Introdução ao Git e ao GitHub~  
+~Como entregar seu desafio de projeto~  
+~Criando seu primeiro repositório no GitHub para compartilhar seu progresso~ 
 
 ### Primeiros comandos com Git
 * Iniciando o Git e criando um commit
