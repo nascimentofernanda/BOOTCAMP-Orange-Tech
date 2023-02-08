@@ -11,7 +11,7 @@ Anotações sobre as aulas do Bootcamp
 ~Criando seu primeiro repositório no GitHub para compartilhar seu progresso~ 
 
 ### Conhecendo a linguagem de programação Java
-~Introdução à plataforma Java~
+~Introdução à plataforma Java~  
 ~Ambiente de desenvolvimento Java~
 * Aprendendo a Sintaxe Java  
 * Lógica condicional e controles de fluxo em Java  
