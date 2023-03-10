@@ -15,6 +15,6 @@ public class metodoString {
         
         }
     public static String nomeCompleto (String primeiroNome, String segundoNome){
-        return primeiroNome + segundoNome;
+        return primeiroNome +" "+ segundoNome;
         }   
 }
