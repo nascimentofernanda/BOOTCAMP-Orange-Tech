@@ -1,5 +1,5 @@
 package aulas.básico.exercícios;
-public class metodoString {
+public class VariavelString {
     public static void main (String [] args){
        
         String primeiroNome = "Fernanda";
